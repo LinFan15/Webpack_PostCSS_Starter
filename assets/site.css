@@ -1,7 +1,6 @@
-section {
-    lost-utility: clearfix;
-}
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 
-div {
-    lost-column: 1/2;
+html, body {
+    height: calc(100% - 10px);
+    margin: 0px;
 }

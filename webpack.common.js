@@ -15,7 +15,7 @@ module.exports = {
     plugins: [
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
-            title: 'Boggle - Jquery',
+            title: 'Boggle - jQuery',
             template: path.resolve(PATHS.assets, 'index.html'),
             favicon: path.resolve(PATHS.assets, 'favicon.png'),
         }),

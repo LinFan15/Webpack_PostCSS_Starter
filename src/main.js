@@ -1,3 +1,4 @@
+import 'purecss';
 import '../assets/site.css';
 
 class TestingEs6 {
